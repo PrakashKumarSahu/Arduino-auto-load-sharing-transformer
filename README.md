@@ -64,3 +64,6 @@ The system automatically switches **Transformer 2** ON when the load increases a
 | Breadboard / PCB | Optional | For prototype setup |
 
 ---
+
+## Circuit Diagram
+![AutomaticLoadSharingCircuitDiagram.png](media/AutomaticLoadSharingCircuitDiagram.png)
